@@ -57,11 +57,12 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividades
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misterkq&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://metrics.lecoq.io/Misterkq?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FSao_Paulo" width="100%" />
 </div>
+
 ---
 
 <div align="center">
