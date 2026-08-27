@@ -56,13 +56,7 @@
 </div>
 
 ---
-#Grafico
 
-<div align="center">
-  
-[![Gráfico de Sequência do GitHub](https://herokuapp.com)](https://github.com)
-
-</div>
 
 <div align="center">
   <p><i>"Construindo o futuro uma linha de código por vez."</i> 🛠️</p>
