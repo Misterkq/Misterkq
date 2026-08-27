@@ -59,8 +59,8 @@
 #Grafico
 
 <div align="center">
-
-[![Gráfico de Contribuições](https://githubusercontent.com)](https://github.com)
+  
+[![Gráfico de Sequência do GitHub](https://herokuapp.com)](https://github.com)
 
 </div>
 
