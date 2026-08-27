@@ -60,7 +60,10 @@
 ## 📈 Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misterkq&theme=tokyonight&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Misterkq&theme=tokyonight&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" 
+    style="width: 100%; max-width: 700px;" 
+  />
 </div>
 
 ---
