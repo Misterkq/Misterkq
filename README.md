@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![Gráfico de Atividade de misterkq](https://vercel.app)](https://github.com)
+[![Gráfico de Contribuições](https://githubusercontent.com)](https://github.com)
 
 </div>
 
