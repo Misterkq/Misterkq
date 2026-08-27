@@ -57,12 +57,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Misterkq&theme=tokyonight&column=3&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Misterkq&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
 </div>
-
 ---
 
 <div align="center">
