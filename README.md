@@ -36,8 +36,12 @@
 
 ```json
 {
-
-
+  "nome": "Kaique (Misterkq)",
+  "funcao": "Desenvolvedor / Estudante",
+  "foco_atual": ["Python Frameworks", "Desenvolvimento Web (Front & Back)", "Lógica de Programação"],
+  "hobbies": ["Calistenia", "Cubo Mágico", "Animes/Mangás"]
+}
+```
 
 ## ⚡ Tech Stack & Ferramentas
 
@@ -51,14 +55,17 @@
 
 </div>
 
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Misterkq&theme=tokyonight&column=3&margin-w=10&margin-h=10" />
+</div>
+
+---
 
 <div align="center">
   <p><i>"Construindo o futuro uma linha de código por vez."</i> 🛠️</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" />
 </div>
-  "nome": "Kaique (Misterkq)",
-  "funcao": "Desenvolvedor / Estudante",
-  "foco_atual": ["Python Frameworks", "Desenvolvimento Web (Front & Back)", "Lógica de Programação"],
-  "hobbies": ["Calistenia", "Cubo Mágico", "Animes/Mangás"]
-}
