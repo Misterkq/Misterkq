@@ -36,6 +36,27 @@
 
 ```json
 {
+
+
+
+## ⚡ Tech Stack & Ferramentas
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+
+
+<div align="center">
+  <p><i>"Construindo o futuro uma linha de código por vez."</i> 🛠️</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" />
+</div>
   "nome": "Kaique (Misterkq)",
   "funcao": "Desenvolvedor / Estudante",
   "foco_atual": ["Python Frameworks", "Desenvolvimento Web (Front & Back)", "Lógica de Programação"],
