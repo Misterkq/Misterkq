@@ -56,20 +56,13 @@
 </div>
 
 ---
+#Grafico
 
 <div align="center">
 
-<!-- Estatísticas gerais do perfil -->
-[![Estatísticas do GitHub de misterkq](https://github-readme-stats.vercel.app/api?username=misterkq&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com)
-
-<br />
-
-<!-- Estatísticas de linguagens usadas -->
-[![Linguagens mais usadas por misterkq](https://vercel.app)](https://github.com)
+[![Gráfico de Atividade de misterkq](https://vercel.app)](https://github.com)
 
 </div>
-
----
 
 <div align="center">
   <p><i>"Construindo o futuro uma linha de código por vez."</i> 🛠️</p>
