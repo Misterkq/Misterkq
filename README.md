@@ -57,13 +57,26 @@
 
 ---
 
-## 📈 Gráfico de Atividades
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+
+  <!-- Estatísticas gerais do perfil -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Misterkq&theme=tokyonight&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" 
-    style="width: 100%; max-width: 700px;" 
+    src="https://github-readme-stats.vercel.app/api?username=misterkq&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Estatísticas do GitHub de misterkq" 
+    style="width: 100%; max-width: 700px;"
   />
+
+  <br />
+
+  <!-- Estatísticas de linguagens usadas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterkq&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Linguagens mais usadas por misterkq" 
+    style="width: 100%; max-width: 700px;"
+  />
+
 </div>
 
 ---
